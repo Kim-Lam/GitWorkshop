@@ -1,1 +1,1 @@
-# GitWorkshop
+# Git Workshop
